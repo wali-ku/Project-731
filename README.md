@@ -13,6 +13,12 @@ in front of it so that we may not duplicate our efforts.
     represents)
   - Perform faceting on each dataset; understand what information we can glean
     from each one
+    - Temperature (W)
+    - CO2 Emission
+    - Fossil Fuels
+    - Ozone Layer
+    - Natural Catastrophes
+    - ...
 
 ## Stage-2
   - Perform feature engineering
